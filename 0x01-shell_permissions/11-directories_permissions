@@ -1,1 +1,2 @@
-#!/bin/bash 12-directory_permissions 13-change_group
+#!/bin/bash
+find . -type d -exec chmod a+x {}\;

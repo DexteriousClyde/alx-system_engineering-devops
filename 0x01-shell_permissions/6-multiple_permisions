@@ -1,2 +1,2 @@
-#!/bin/bash 7-everybody
+#!/bin/bash
 chmod u+x, g+x, o+r hello

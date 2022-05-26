@@ -1,1 +1,2 @@
-#!/bin/bash 13-change_group
+#!/bin/bash
+umask 751; touch my_dir
